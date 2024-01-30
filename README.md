@@ -1,1 +1,1 @@
-# deploy-manifest
+# deploy-manifest project
