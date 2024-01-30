@@ -1,1 +1,1 @@
-# deploy-manifest project
+# deploy-manifest project demo
